@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack data science course**
 
-- 👀 I’m interested in **Data science ,Analysis**
+- 👀 I’m interested in **Data science , Analysis**
 
 - 💬 Ask me about **Statistics**
 
