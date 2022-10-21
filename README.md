@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vinayak Gaikar</h1>
+<h1 align="center">Hi 👋, I'm Vinayak</h1>
 <h3 align="center">A passionate about problem solving </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakgaikar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakgaikar" /> </p>
