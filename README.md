@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Statistics**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]([https://github.com/Vinayakgaikar?tab=repositories])**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Vinayakgaikar?tab=repositories)**
 
 - 📫 How to reach me **vinayakgaikar1998@gmail.com**
 
