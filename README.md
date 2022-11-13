@@ -9,6 +9,8 @@
 
 - 💬 Ask me about **Statistics**
 
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Chandan220698?tab=repositories)**
+
 - 📫 How to reach me **vinayakgaikar1998@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
