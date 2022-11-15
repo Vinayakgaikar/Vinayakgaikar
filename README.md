@@ -1,4 +1,4 @@
-<img src="https://thumbs.dreamstime.com/z/data-science-man-working-holographic-interface-visual-screen-high-quality-hologram-99461027.jpg" width="1200" height="300" />
+<img src="https://data-science-man-working-holographic-interface-visual-screen-high-quality-hologram-99461027.jpg" width="1200" height="300" />
 
 <h1 align="center">Hi 👋, I'm Vinayak</h1>
 <h3 align="center">A passionate about problem solving </h3>
