@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsJKzaK38DitG22ddwrLG-y5MV_3rTJHvVUg&usqp=CAU" width="1200" height="300" />
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fdata-science-concept-businessman-showing-conceptual-illustration-internet-big-technology-140084029.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fdata-science.html&tbnid=tnYPLJnfWGZ54M&vet=12ahUKEwiY6cu30a_7AhWfxaACHc-fBEsQMygCegUIARDRAQ..i&docid=9FIDZaKhEf5FaM&w=800&h=530&q=data%20science%20hd%20mages&ved=2ahUKEwiY6cu30a_7AhWfxaACHc-fBEsQMygCegUIARDRAQ" width="1200" height="300" />
 
 <h1 align="center">Hi 👋, I'm Vinayak</h1>
 <h3 align="center">A passionate about problem solving </h3>
