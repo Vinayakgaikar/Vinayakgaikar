@@ -1,4 +1,4 @@
-<img src="https://thumbs.dreamstime.com/z/binary-data-blue-background-technology-concept-60010003.jpg" width="1200" height="300" />
+<img src="https://xennsoft.com/wp-content/uploads/2017/05/AdobeStock_93278906.jpeg" width="1200" height="300" />
 
 <h1 align="center">Hi 👋, I'm Vinayak</h1>
 <h3 align="center">A passionate about problem solving </h3>
