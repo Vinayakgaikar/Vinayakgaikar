@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack data science course**
 
-- 🔭 I’m currently working on **Internship project**
+- 🔭 I’m currently working on **[Internship project](https://github.com/Vinayakgaikar/Insurance_Premium_Prediction)**
 
 - 👀 I’m interested in **Data science , Analysis**
 
