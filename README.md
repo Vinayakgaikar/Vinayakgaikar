@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayakgaikar&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakgaikar" /> </p>
 
-- 🌱 I’m currently learning **Full stack data science course**
+- 🌱 I’m currently learning **Full Stack Data Science Course**
 
 - 🔭 I’m currently working on **[Internship project](https://github.com/Vinayakgaikar/Insurance_Premium_Prediction)**
 
-- 👀 I’m interested in **Data science , Analysis**
+- 👀 I’m interested in **Data Science , Data Analysis**
 
 - 💬 Ask me about **Statistics**
 
