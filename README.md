@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Data Science Course**
 
-- 🔭 I’m currently working on **[Internship project](https://github.com/Vinayakgaikar/Insurance_Premium_Prediction)**
+- 🔭 I’m currently working as **Data Science Intern in DataKnobs**
 
 - 👀 I’m interested in **Data Science , Data Analysis**
 
